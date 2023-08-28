@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+### About Me
+I am 17 years old and I study at SMKN 2 Trenggalek
 ### Stats
 ![profile](https://github-readme-stats.vercel.app/api?username=Kyaede&show_icons=true&include_all_commits=true&theme=tokyonight&cache_seconds=3200)
 
