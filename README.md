@@ -1,6 +1,10 @@
 ### Hi there 👋
 
 ### Stats
+![profile](https://github-readme-stats.vercel.app/api?username=Usernob&show_icons=true&include_all_commits=true&theme=tokyonight&cache_seconds=3200)
+
+### Language
+![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=Usernob&layout=compact&theme=nightowl)
 <!--
 **Kyaede/Kyaede** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
