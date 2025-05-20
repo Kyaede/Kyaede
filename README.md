@@ -12,15 +12,16 @@ I am 17 years old and I study at SMKN 2 Trenggalek
 
 ### Connect with me
 <div class="social">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+![https://github.com/Kyaede/]("https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white")
+![https://www.linkedin.com/in/nizhar-fazary-3b4822283/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white")
 </div>
 
 ### Stats
+<div style="display: flex; flex-wrap: wrap">
 ![profile](https://github-readme-stats.vercel.app/api?username=Kyaede&show_icons=true&include_all_commits=true&theme=tokyonight&cache_seconds=3200)
-
-### Language
 ![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=Kyaede&layout=compact&theme=nightowl)
+</div>
+
 ###
 
 <picture>
