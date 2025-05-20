@@ -11,15 +11,16 @@ I am 17 years old and I study at SMKN 2 Trenggalek
 </div>
 
 ### Connect with me
-<div class="social">
+
 ![https://github.com/Kyaede/]("https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white")
 ![https://www.linkedin.com/in/nizhar-fazary-3b4822283/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white")
-</div>
+
 
 ### Stats
 <div style="display: flex; flex-wrap: wrap">
-![profile](https://github-readme-stats.vercel.app/api?username=Kyaede&show_icons=true&include_all_commits=true&theme=tokyonight&cache_seconds=3200)
-![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=Kyaede&layout=compact&theme=nightowl)
+  <img src="https://raw.githubusercontent.com/kyaede/github-stats/master/generated/overview.svg#gh-dark-mode-only">
+
+  <img src="https://raw.githubusercontent.com/kyaede/github-stats/master/generated/languages.svg#gh-dark-mode-only">
 </div>
 
 ###
@@ -31,6 +32,7 @@ I am 17 years old and I study at SMKN 2 Trenggalek
 </picture>
 
 ###
+
 <!--
 **Kyaede/Kyaede** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
