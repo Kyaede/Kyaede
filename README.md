@@ -13,6 +13,7 @@ I am 17 years old and I study at SMKN 2 Trenggalek
 ### Connect with me
 
 ![https://www.linkedin.com/in/nizhar-fazary-3b4822283/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white")
+![https://github.com/Kyaede](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 ### Stats
 
